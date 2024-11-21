@@ -1,13 +1,13 @@
 const paises = ['Estados Unidos','França','China','Rússia','Coreia do Sul','Índia','Canadá']
 const reatores = [93,56,55,37,25,19,19]
 const bandeiras = [
-    '/src/images/bandeiras/estados.jfif',
-    '/src/images/bandeiras/franca.jfif',  // Atualizado para seguir o mesmo padrão
-    '/src/images/bandeiras/china.jfif',
-    '/src/images/bandeiras/russia.jfif',
-    '/src/images/bandeiras/coreia.jfif',
-    '/src/images/bandeiras/india.jfif',
-    '/src/images/bandeiras/canada.jfif'
+    '/images/bandeiras/estados.jfif',
+    '/images/bandeiras/franca.jfif',  // Atualizado para seguir o mesmo padrão
+    '/images/bandeiras/china.jfif',
+    '/images/bandeiras/russia.jfif',
+    '/images/bandeiras/coreia.jfif',
+    '/images/bandeiras/india.jfif',
+    '/images/bandeiras/canada.jfif'
 ];
 
 
