@@ -12,6 +12,6 @@ A **Modular Energy** é uma Landing Page focada em apresentar os benefícios dos
 ## Membros do Grupo
 - Jonathan Henrique Henrique Celso
 - Link GitHub Pages
-https://github.com/Jhow17/Global_Solution/settings/pages
+https://jhow17.github.io/Global_Solution/
 - Link FIGMA
 - https://www.figma.com/proto/qKBCx7foiXCQTSw7N8VvOi/S%C3%A9rie%3A-Criando-uma-Landing-Page-no-Figma-(Community)?node-id=0-1&t=ss6kAtluXBYa04Ot-1
